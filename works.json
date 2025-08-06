@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Sparse blobpool on Geth",
+    "description": "Implementation of sparse blobpool, one of the blobpool scaling solutions",
+    "label": "EL",
+    "url": "https://github.com/healthykim/go-ethereum/tree/cell-staging",
+    "date": "2025-08-06"
+  },
+  {
+    "title": "Cell staging on Prysm",
+    "description": "Implementation of cell staging, which aims to optimize blob propagation in combination with the sparse blobpool",
+    "label": "CL",
+    "url": "https://github.com/healthykim/go-ethereum/tree/cell-staging",
+    "date": "2025-08-06"
+  }
+]
